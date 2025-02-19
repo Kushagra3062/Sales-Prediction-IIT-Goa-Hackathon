@@ -1,4 +1,4 @@
-#Sales Prediction Model
+Sales Prediction Model
 
 This repository contains a Machine Learning model developed for the Sales Prediction problem, as part of the IIT Goa Hackathon. The model is designed to predict sales based on various features using advanced data preprocessing and predictive modeling techniques.
 
